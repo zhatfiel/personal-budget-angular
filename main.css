@@ -73,6 +73,14 @@ div.hero h2 {
     display: inline-block;
 }
 
+.page-area h2 {
+    font-size: 3.0em;
+}
+
+.page-area p {
+    font-size: 1.5em;
+}
+
 .bottom {
     height: 50px;
     background-color: #b4c6f0;
