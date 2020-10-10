@@ -1,0 +1,32 @@
+main {
+  text-align: center;
+  padding: 40px;
+  width: 100%;
+  color: black;
+}
+
+span {
+  display: inline-grid;
+  width: 100%;
+  max-width: 340px;
+  text-align: justify;
+  margin: 20px;
+  font-size: 1.5em;
+}
+
+div {
+  max-width: 768px;
+  display: inline-block;
+  border-style: solid;
+  border-width: 3px;
+  border-color: white;
+}
+
+h2 {
+  font-size: 3.0em;
+}
+
+#message {
+  display: inline-block;
+  height: 200px;
+}
